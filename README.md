@@ -10,3 +10,6 @@ Code Assignment: A binary code is assigned to each character based on its positi
 
 ## Time Complexity
 The overall time complexity of the Huffman Algorithm is O(n log n), where n is the number of unique symbols. This complexity arises due to the heap operations involved in building the Huffman tree.
+
+![Time Complexity Plot](./figure5.png)
+
